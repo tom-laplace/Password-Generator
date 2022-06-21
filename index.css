@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.karla-font {
+    font-family: 'Karla', sans-serif;
+}
+
+#title {
+    margin-top: 0;
+    padding-top: 115px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 20px;
+    color: #D5D4D8;
+    font-weight: 400;
+    margin-bottom: 51px;
+}
+
+.container {
+    background-color: #1F2937;
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+
+.green-text {
+    color: #10B981;
+}
+
+#generate-btn {
+    background: #10B981;
+    padding: 9px 17px 9px 15px;
+    border-radius: 6px;
+}
+
+#passwords {
+    margin-top: 50px;
+    border-top: 1px solid #2f3e53;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+#first-password {
+    border-radius: 6px;
+    padding: 10px 35px;
+    border: none;
+    background: #273549;
+    color: #10B981;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#copy-btn {
+    background: #10B981;
+    padding: 9px 17px 9px 15px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    width: 75px;
+}
